@@ -611,21 +611,6 @@
 			"detailjsurl": "//li/a/@href"
 		},
 		{
-			"name": "PWXX",
-			"searchUrl": "https://www.pwxxx.site",
-			"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"playUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"websearchurl": "https://www.pwxxx.site/vod/search.html?wd=",
-			"searchname": "//h4[@class=&&&title text-overflow&&&]/text()",
-			"searchid": "//div[@class=&&&stui-vodlist__box&&&]/a/@href",
-			"searchpic": "//a[@class=&&&stui-vodlist__thumb lazyload&&&]/@data-original",
-			"searchstarr": "//span[@class=&&&pic-text text-right&&&]/text()",
-			"detaillist": "//ul[@class=&&&stui-play__list clearfix&&&]/text()",
-			"detailxl": "//ul[@class=&&&tab-top play-tab clearfix&&&]/text()",
-			"detailjs": "//a/text()",
-			"detailjsurl": "//a/@href"
-		},
-		{
 			"name": "北川影视",
 			"searchUrl": "https://www.bczhuiju.com",
 			"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -1045,36 +1030,7 @@
 			"detailjs": "//a/span/text()",
 			"detailjsurl": "//a/@href"
 		},
-		{
-			"name": "怡红院",
-			"searchUrl": "https://www.ktv3.xyz",
-			"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"playUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"websearchurl": "https://www.ktv3.xyz/index.php/vod/detail/id/37119.html",
-			"searchname": "",
-			"searchid": "https://www.ktv3.xyz/index.php/vod/detail/id/#.html",
-			"searchpic": "",
-			"searchstarr": "",
-			"detaillist": "//div[@class=&&&sort-item&&&]",
-			"detailxl": "//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
-			"detailjs": "//a//text()",
-			"detailjsurl": "//a/@href"
-		},
-		{
-			"name": "酷爱影视",
-			"searchUrl": "https://ktv8.xyz",
-			"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"playUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"websearchurl": "",
-			"searchname": "",
-			"searchid": "https://ktv8.xyz/index.php/vod/detail/id/#.html",
-			"searchpic": "",
-			"searchstarr": "",
-			"detaillist": "//div[@class=&&&sort-item&&&]",
-			"detailxl": "//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
-			"detailjs": "//a/text()",
-			"detailjsurl": "//a/@href"
-		},
+
 		{
 			"name": "伪片库网",
 			"searchUrl": "https://www.pkmp4.com",
