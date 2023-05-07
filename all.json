@@ -1070,21 +1070,6 @@
 			"detailjsurl": "//li/a/@href"
 		},
 		{
-			"name": "蜥蜴影院",
-			"searchUrl": "https://xi1.net",
-			"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"playUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-			"websearchurl": "",
-			"searchname": "",
-			"searchid": "https://xi1.net/tvdetail/#.html",
-			"searchpic": "",
-			"searchstarr": "",
-			"detaillist": "//ul[@id='hl-plays-list']",
-			"detailxl": "//span[starts-with(@class,'hl-from-')]/text()",
-			"detailjs": "//li/a/text()",
-			"detailjsurl": "//li/a/@href"
-		},
-		{
 			"name": "555电影",
 			"searchUrl": "https://www.555dy1.com",
 			"searchUA": "Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
