@@ -1219,7 +1219,7 @@
             "detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
             "detailjs": "//a/span/text()",
             "detailjsurl": "//a/@href"
-        }.
+        },
         {
             "name": "影咖TV",
             "searchUrl": "https://www.yingka.tv",
